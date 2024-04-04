@@ -1,1 +1,1 @@
-Еhis is my first graph application
+This is my first graph application
